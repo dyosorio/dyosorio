@@ -7,14 +7,8 @@
 * :raised_hands: I enjoy running, volunteering and Human Rights activism.
 * :earth_americas: I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.
 
-### Tech: 
-![html5](https://imgur.com/TiHPT3t)
-Format: ![html5]
-
-
-
 ### Get in touch: 
-- [x][linkedin] - [x][codepen] - [x][downloadCV]
+✅[linkedin] ✅[codepen] ✅[downloadCV]
 
 
 
