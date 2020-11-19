@@ -2,14 +2,13 @@
 
 ### I'm an Architect, and a Junior Developer
 
-* :cupid: I love CSS art, Javascript and Reactjs. 
-* :mortar_board: I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.
-* :raised_hands: I enjoy running, volunteering and Human Rights activism.
-* :earth_americas: I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.
+:cupid: I love CSS art, Javascript and Reactjs.<br/>
+:mortar_board: I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.<br/>
+:raised_hands: I enjoy running, volunteering and Human Rights activism.<br/>
+:earth_americas: I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.<br/>
 
 ### Get in touch 💬 
 * [linkedin] 
-* [codepen] 
 * [downloadCV]
 
 Thanks for stopping by!
