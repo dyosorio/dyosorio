@@ -1,11 +1,11 @@
 ## Hi, there! I'm Danny 👋 
 
-### I'm an Architect, and a Junior Developer
+### I'm an Architect, and a Junior Developer 👩‍💻 
 
-:cupid: - I love CSS art, Javascript and Reactjs.<br/>
-:mortar_board: - I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.<br/>
-:raised_hands: - I enjoy running, volunteering and Human Rights activism.<br/>
-:earth_americas: - I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.<br/>
+* I love CSS art, Javascript and Reactjs.
+* I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.
+* I enjoy running, volunteering and Human Rights activism.
+* I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.
 
 ### Get in touch 💬 
 * [linkedin] 
