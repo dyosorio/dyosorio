@@ -9,13 +9,6 @@
 
 ### Get in touch 💬
 
-- I love CSS, Javascript and Reactjs.
-- I graduated from [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.
-- I enjoy running, volunteering and Human Rights activism.
-- I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.
-
-### Get in touch 💬
-
 - [linkedIn]
 - [downloadCV]
 
