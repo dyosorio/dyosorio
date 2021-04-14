@@ -1,6 +1,6 @@
 ## Hi, there! I'm Danny 👋
 
-### I'm a Full Stack Developer 👩‍💻
+### I'm a Developer 👩‍💻
 
 - I love CSS art, Javascript and Reactjs.
 - I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.
