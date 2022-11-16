@@ -17,4 +17,4 @@ Thanks for stopping by!
 [hackyourfuture]: https://www.hackyourfuture.net/
 [linkedin]: https://www.linkedin.com/in/danny-osorio-177b51121/
 [codepen]: https://codepen.io/danny-osorio
-[downloadcv]: https://bit.ly/3fhxAxU
+
