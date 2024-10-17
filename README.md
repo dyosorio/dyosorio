@@ -3,13 +3,12 @@
 ### I'm a Backend Developer 👩‍💻
 
 - I like developing side projects that I can use to make my life easier. 
-- I'm a graduated Architect but I've working as a Developer for aobut 4 years.
+- I'm a graduated Architect but I've working as a Developer for about 4 years.
 - I enjoy talking long walks while listening to podcasts, tracking my energy consumption, track expenses, grocery list status and automating repetitive tasks! 
 
 ### Get in touch 💬
 
 - [linkedIn]
-- [downloadCV]
 
 Thanks for stopping by!
 
