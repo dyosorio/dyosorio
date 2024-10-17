@@ -2,9 +2,17 @@
 
 ### I'm a Backend Developer 👩‍💻
 
-- I like developing side projects that I can use to make my life easier. 
-- I'm a graduated Architect but I've working as a Developer for about 4 years.
-- I enjoy talking long walks while listening to podcasts, tracking my energy consumption, track expenses, grocery list status and automating repetitive tasks! 
+Hi there! I'm Danny 👋  
+I'm a Backend Developer and I enjoy creating side projects that simplify my life.  
+I originally graduated as an Architect, but I've been working as a Developer for about 4 years.  
+I enjoy long walks while listening to podcasts, building Node projects, tracking my energy consumption, managing expenses, organizing grocery lists, and automating boring repetitive tasks.
+
+My preferred tech stack includes 
+- JavaScript,
+- Node.js,
+- Microservices,
+- GraphQL,
+- Salesforce Commerce Cloud for e-commerce projects
 
 ### Get in touch 💬
 
