@@ -2,7 +2,6 @@
 
 ### I'm a Backend Developer 👩‍💻
 
-Hi there! I'm Danny 👋  
 I'm a Backend Developer and I enjoy creating side projects that simplify my life.  
 I originally graduated as an Architect, but I've been working as a Developer for about 4 years.  
 I enjoy long walks while listening to podcasts, building Node projects, tracking my energy consumption, managing expenses, organizing grocery lists, and automating boring repetitive tasks.
