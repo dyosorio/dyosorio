@@ -1,11 +1,10 @@
 ## Hi, there! I'm Danny 👋
 
-### I'm a Developer 👩‍💻
+### I'm a Backend Developer 👩‍💻
 
-- I love CSS art, Javascript and Reactjs.
-- I'm a student at [HackYourFuture]; a 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS.
-- I enjoy running, doing yoga, and Human Rights activism.
-- I'm from Nicaragua, Latin America. I'm currently based in The Netherlands.
+- I like developing side projects that I can use to make my life easier. 
+- I'm a graduated Architect but I've working as a Developer for aobut 4 years.
+- I enjoy talking long walks while listening to podcasts, tracking my energy consumption, track expenses, grocery list status and automating repetitive tasks! 
 
 ### Get in touch 💬
 
