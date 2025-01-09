@@ -7,14 +7,17 @@
 🧶 I enjoy long walks while listening to podcasts, building with lego, knitting, reading and espending time with my family.
 
 My preferred tech stack includes 
-- JavaScript,
+- HTML, CSS and JavaScript,
 - Node.js,
+- React and React Native
+- Java and Spring Boot
 - Microservices,
 - PostgreSQL
 - GraphQL,
 - NestJS,
 - Kafka,
 - Docker,
+- Salesforce Apex
 - Salesforce Commerce Cloud for e-commerce projects
 
 ### Get in touch 💬
